@@ -6,4 +6,4 @@ Started initial designs and contacted Gifted and Talented coordinator to apply f
 Collected donations from friends and teachers--like an UNO R3 micro controller--to cover as much of the project as possible. 
 Began collecting resources to learn key concepts such as voltage & amp draw of motor and RMP laws. 
 First learned what a loadcell is, and found a cheap version from https://shillehtek.com/
-
+Learned that the specific load cell gives an analogue signal (~5-10 mV) at full load, but Arduino can only provide 1-2 steps across 5kg range for analogue pins. Either have to use another more advanced micro-controller, or amplify and convert load cell signal. 
