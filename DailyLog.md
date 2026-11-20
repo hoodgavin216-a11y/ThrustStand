@@ -13,3 +13,4 @@ Currently 11:30 pm, finishing part list; ran into some small issues with back or
 11/20/2026
 Began creating paper drawings for CAD refence. 
 Checking the availably of my libraries local 3d printer for the several 3d printed parts. 
+Creating 1st base plate for printing, workshopping measurements.
