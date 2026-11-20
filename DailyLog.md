@@ -11,6 +11,7 @@ Either have to use another more advanced micro-controller, or amplify and conver
 Currently 11:30 pm, finishing part list; ran into some small issues with back orders and voltage incompatibility. 
 
 11/20/2026
-Began creating paper drawings for CAD refence. 
+Began creating paper drawings for CAD reference. 
 Checking the availably of my libraries local 3d printer for the several 3d printed parts. 
 Creating 1st base plate for printing, workshopping measurements.
+Modeled some of the key components for easy conjunction in fusion assembly. 
