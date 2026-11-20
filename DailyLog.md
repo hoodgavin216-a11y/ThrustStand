@@ -9,3 +9,7 @@ First learned what a loadcell is, and found a cheap version from https://shilleh
 Learned that the specific load cell gives an analogue signal (~5-10 mV) at full load, but Arduino can only provide 1-2 steps across 5kg range for analogue pins. 
 Either have to use another more advanced micro-controller, or amplify and convert load cell signal. 
 Currently 11:30 pm, finishing part list; ran into some small issues with back orders and voltage incompatibility. 
+
+11/20/2026
+Began creating paper drawings for CAD refence. 
+Checking the availably of my libraries local 3d printer for the several 3d printed parts. 
