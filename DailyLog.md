@@ -21,3 +21,6 @@ Uploaded several CAD designs to Github.
 Still no updates on components order or grant. 
 Counting work on final design.
 
+11/22/2026
+
+
