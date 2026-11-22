@@ -15,3 +15,9 @@ Began creating paper drawings for CAD reference.
 Checking the availably of my libraries local 3d printer for the several 3d printed parts. 
 Creating 1st base plate for printing, workshopping measurements.
 Modeled some of the key components for easy conjunction in fusion assembly. 
+
+11/21/2026
+Uploaded several CAD designs to Github.
+Still no updates on components order or grant. 
+Counting work on final design.
+
