@@ -22,5 +22,6 @@ Still no updates on components order or grant.
 Counting work on final design.
 
 11/22/2026
-
+Learning what ESP32 drivers are and how SCL vs SDA work to send and receive data.
+Programming demo version for ESP32 and MPU sensor in Wokwi 
 
