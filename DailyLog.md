@@ -8,6 +8,7 @@ Began collecting resources to learn key concepts such as voltage & amp draw of m
 First learned what a loadcell is, and found a cheap version from https://shillehtek.com/
 Learned that the specific load cell gives an analogue signal (~5-10 mV) at full load, but Arduino can only provide 1-2 steps across 5kg range for analogue pins. 
 Either have to use another more advanced micro-controller, or amplify and convert load cell signal. 
+Choose ESP32 as new micro controller as a result. 
 Currently 11:30 pm, finishing part list; ran into some small issues with back orders and voltage incompatibility. 
 
 11/20/2026
