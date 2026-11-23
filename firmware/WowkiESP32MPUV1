@@ -1,3 +1,7 @@
+//Using ESP pin 22 and 21
+//Only using ESP and MPU with VCC, GND, SCL, and SDA connection
+//Only using xyz accel and xyz gyro, not raw temp data
+
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
