@@ -24,5 +24,12 @@ Counting work on final design.
 
 11/22/2026
 Learning what ESP32 drivers are and how SCL vs SDA work to send and receive data.
-Programming demo version for ESP32 and MPU sensor in Wokwi 
+Programming demo version for ESP32 and MPU sensor in Wokwi.
+
+11/23/2026
+Programmed demo version for both MPU sensor and LoadCell in Wokwi.
+
+11/24/2026
+Researched specifications for motor, loadcell, and MPU sensor.
+Designed and fabricated Motor/Sensor head plate at local makerspace.
 
