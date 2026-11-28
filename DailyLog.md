@@ -33,3 +33,18 @@ Programmed demo version for both MPU sensor and LoadCell in Wokwi.
 Researched specifications for motor, loadcell, and MPU sensor.
 Designed and fabricated Motor/Sensor head plate at local makerspace.
 
+11/25/2026
+Missing, update later
+
+11/26/2026
+Learned and practiced with Google Colab, an open source platform for data analysis, not dissimilar to matplotlib.
+Learned how to utilize pandas with python.
+
+11/27/2026
+Spent the day analyzing sample data from a real world MPU, focuses on acceleration.
+Analyzed acceleration as a combined xyz scalar.
+Used Peak-to-Peak, Crest Factor, Rolling Average, and Frequency Residuals to find anomolies and colleration within the data.
+Finally created a program to complete a Fast Fourier Transform and find max amplitude corresponding frequency. 
+
+
+
